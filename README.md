@@ -16,5 +16,5 @@ React Native, Expo, Typescript
 
 <div style="flex-direction: row;">
 <img src="https://github.com/fealex95/Stream-Data-Rocketseat/blob/master/Screenshots/WhatsApp%20Image%202022-03-27%20at%2016.30.22.jpeg" width=190 />
-<img src="https://github.com/fealex95/Stream-Data-Rocketseat/blob/master/Screenshots/WhatsApp%20Image%202022-03-27%20at%2016.30.22.jpeg" width=190 />
+<img src="https://github.com/fealex95/Stream-Data-Rocketseat/blob/master/Screenshots/WhatsApp%20Image%202022-03-27%20at%2016.30.16.jpeg" width=190 />
 </div>
